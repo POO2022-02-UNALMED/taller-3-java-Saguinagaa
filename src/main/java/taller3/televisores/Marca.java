@@ -5,10 +5,10 @@ public class Marca {
 	public Marca(String nom) {
 		nombre=nom;
 	}
-	public String getnombre() {
+	public String getNombre() {
 		return nombre;
 	}
-	public void setnombre(String nuev){
+	public void setNombre(String nuev){
 		nombre=nuev;
 		
 	}
